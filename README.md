@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/152fcff3-1bfe-41ef-8691-5214d642c260)
+
 # 🚀 Comprehensive Sales Performance Dashboard in Power BI
 
 Transforming extensive sales data into actionable insights to drive strategic decision-making and enhance business performance.
