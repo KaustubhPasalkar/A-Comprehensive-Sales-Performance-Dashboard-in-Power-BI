@@ -31,7 +31,7 @@ This Power BI dashboard has empowered sales teams by:
 - **DAX Functions**: For advanced calculations and metrics.
 
 ## 🔗 Project Dashboard Link
-Explore the interactive Sales Performance Dashboard here: [Dashboard Link](https://lnkd.in/gpDW8XFV)
+Explore the interactive Sales Performance Dashboard here: [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMGZkZmNlMzQtZTk5MC00ZjJlLWE5ZTktZDRiNWQwNjcxZmRkIiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9)
 
 ---
 
