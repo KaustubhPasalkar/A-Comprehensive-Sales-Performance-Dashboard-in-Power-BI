@@ -40,4 +40,3 @@ If you find this project interesting or have any suggestions, feel free to give 
 
 ---
 
-**#PowerBI** **#DataVisualization** **#SalesAnalytics** **#DashboardDesign** **#BusinessIntelligence** **#DataDrivenDecisions** **#OperationalEfficiency**
